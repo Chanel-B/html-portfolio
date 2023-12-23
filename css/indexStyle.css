@@ -1,0 +1,14 @@
+* {
+    background-color: rgba(255, 255, 255, 0.963);
+}
+
+h2 {
+    background-color: rgb(24, 128, 255);
+    text-align: center;
+    color: white;
+}
+
+footer {
+    background-color: rgb(24, 128, 255);
+    height: 50px;
+}
